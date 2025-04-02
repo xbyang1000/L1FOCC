@@ -2,7 +2,7 @@
 
 
 The data used in the manuscript can be found here, including public and our own images and videos.
-We also provide a demo code for L1-OCSVM, which has been tested on MATLAB 2017b, Windows 7 operating system.
+We also provide a demo code for L1-FOCC, which has been tested on MATLAB 2017b, Windows 7 operating system.
 For more UAV-based high-quality forestry image and high-resolution figures (microsoft powerpoint file), they can be avaiable at https://pan.baidu.com/s/14N29M5AMFioLEm6csxDpiw?pwd=ubt2, with the extracted code: ubt2, due to the Github limitation of 20MB file size when uploading files.
 
 For the data information, one can visit our pervious work. 
